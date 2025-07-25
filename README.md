@@ -1,6 +1,6 @@
 # TO-DO
+<img width="786" height="817" alt="to SS" src="https://github.com/user-attachments/assets/c2251153-6ab0-4296-95fd-f4aa828df243" />
 
-![TO DO New](https://user-images.githubusercontent.com/127089537/224529137-d89c2d56-cc7b-4292-ac7b-02cdc2bfbce0.PNG)
 
 This is a simple to-do list web application created using HTML, Bootstrap, and JavaScript. It allows you to add tasks, mark them as complete, and delete them.
 
