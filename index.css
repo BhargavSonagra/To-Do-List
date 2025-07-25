@@ -102,3 +102,9 @@ ul li button {
 .checkbtn {
     background-color: rgba(25, 167, 98, 0.904);
 }
+
+.timestamp {
+    font-size: 0.75rem; /* shrink size */
+    color: gray;
+    margin-left: 6px;
+}
